@@ -27,11 +27,14 @@ public class App2 {
 		System.out.println(hasMoneyInPocket);
 		System.out.println('\n');
 		
+		System.out.println("Week 2 Assignment - Part 3");
+		
 		double costOfMilk = 2.99;
 		double moneyInWallet = 100.00;
 		int thirstLevel = 10;
+		System.out.println('\n');
 		
-		System.out.println("Week 2 Assignment - Part 3");
+		System.out.println("Week 2 Assignment - Part 4");
 		
 		boolean shouldBuyIcecream = true;
 				if (isHotoutside == true && hasMoneyInPocket == true) {
